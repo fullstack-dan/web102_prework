@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/ADZeHiTh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://s11.gifyu.com/images/ScL9a.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Also linked here: [App Walkthrough](https://imgur.com/a/luzc5K5)
 
